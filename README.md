@@ -1,0 +1,2 @@
+# AiLife
+React Native app
