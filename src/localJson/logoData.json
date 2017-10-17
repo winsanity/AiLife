@@ -1,0 +1,222 @@
+{
+    "ANE": {
+        "name": "安能物流",
+        "logo": "56/annengwuliu.png"
+    },
+    "AXD": {
+        "name": "安迅物流",
+        "logo": "56/anxl.png"
+    },
+    "BTWL": {
+        "name": "百世快递",
+        "logo": "56/huitongkuaidi.png"
+    },
+    "CJKD": {
+        "name": "城际速递",
+        "logo": "56/chengjisudi.png"
+    },
+    "CITY100": {
+        "name": "城市100",
+        "logo": "56/city100.png"
+    },
+    "DBL": {
+        "name": "德邦物流",
+        "logo": "56/debangwuliu.png"
+    },
+    "DSWL": {
+        "name": "D速物流",
+        "logo": "56/disifang.png"
+    },
+    "DTWL": {
+        "name": "大田物流",
+        "logo": "56/coe.png"
+    },
+    "EWE": {
+        "name": "EWE",
+        "logo": "56/emsguoji.png"
+    },
+    "EMS": {
+        "name": "EMS快递",
+        "logo": "56/ems.png"
+    },
+    "FEDEX": {
+        "name": "FEDEX联邦(国内件）",
+        "logo": "56/fedex.png"
+    },
+    "FKD": {
+        "name": "飞康达物流",
+        "logo": "56/feikangda.png"
+    },
+    "GTSD": {
+        "name": "高铁速递",
+        "logo": "56/hre.png"
+    },
+    "GSD": {
+        "name": "共速达",
+        "logo": "56/gongsuda.png"
+    },
+    "GTO": {
+        "name": "国通快递",
+        "logo": "56/guotongkuaidi.png"
+    },
+    "HLYSD": {
+        "name": "好来运快递",
+        "logo": "56/hlyex.png"
+    },
+    "HLWL": {
+        "name": "恒路物流",
+        "logo": "56/hengluwuliu.png"
+    },
+    "HXLWL": {
+        "name": "华夏龙物流",
+        "logo": "56/huaxialongwuliu.png"
+    },
+    "JXD": {
+        "name": "急先达物流",
+        "logo": "56/jixianda.png"
+    },
+    "JJKY": {
+        "name": "佳吉物流",
+        "logo": "56/jiajiwuliu.png"
+    },
+    "JYM": {
+        "name": "加运美快递",
+        "logo": "56/jiayunmeiwuliu.png"
+    },
+    "JD": {
+        "name": "京东快递",
+        "logo": "56/jd.png"
+    },
+    "LHT": {
+        "name": "联昊通物流",
+        "logo": "56/lianhaowuliu.png"
+    },
+    "LB": {
+        "name": "龙邦速递",
+        "logo": "56/longbanwuliu.png"
+    },
+    "MB": {
+        "name": "民邦速递",
+        "logo": "56/minbangsudi.png"
+    },
+    "MHKD": {
+        "name": "民航快递",
+        "logo": "56/minghangkuaidi.png"
+    },
+    "NEDA": {
+        "name": "能达速递",
+        "logo": "56/ganzhongnengda.png"
+    },
+    "PADTF": {
+        "name": "平安达腾飞",
+        "logo": "56/pingandatengfei.png"
+    },
+    "QFKD": {
+        "name": "全峰快递",
+        "logo": "56/quanfengkuaidi.png"
+    },
+    "QRT": {
+        "name": "全日通快递",
+        "logo": "56/quanritongkuaidi.png"
+    },
+    "REF": {
+        "name": "如风达快递",
+        "logo": "56/rufengda.png"
+    },
+    "RFEX": {
+        "name": "瑞丰速递",
+        "logo": "rfsd_logo.gif"
+    },
+    "ST": {
+        "name": "申通快递",
+        "logo": "56/shentong.png"
+    },
+    "STO": {
+        "name": "申通快递",
+        "logo": "56/shentong.png"
+    },
+    "SHWL": {
+        "name": "盛辉物流",
+        "logo": "56/shenghuiwuliu.png"
+    },
+    "SF": {
+        "name": "顺丰速运",
+        "logo": "56/shunfeng.png"
+    },
+    "SURE": {
+        "name": "速尔快递",
+        "logo": "56/suer.png"
+    },
+    "HHTT": {
+        "name": "天天快递",
+        "logo": "56/tiantian.png"
+    },
+    "WJWL": {
+        "name": "万家物流",
+        "logo": "56/wanjiawuliu.png"
+    },
+    "HTKY":{
+      "name":"百世快递",
+      "logo":"56/huitongkuaidi.png"
+    },
+    "WXWL": {
+        "name": "万象物流",
+        "logo": "56/wanxiangwuliu.png"
+    },
+    "XYT": {
+        "name": "希优特快递",
+        "logo": "56/xiyoutekuaidi.png"
+    },
+    "XBWL": {
+        "name": "新邦物流",
+        "logo": "56/xinbangwuliu.png"
+    },
+    "XFWL": {
+        "name": "信丰物流",
+        "logo": "56/xinfengwuliu.png"
+    },
+    "YFSD": {
+        "name": "亚风速递",
+        "logo": "56/yafengsudi.png"
+    },
+    "YZPY": {
+        "name": "邮政国内",
+        "logo": "56/youzhengguonei.png"
+    },
+    "YCWL": {
+        "name": "远成物流",
+        "logo": "56/yuanchengwuliu.png"
+    },
+    "YTO": {
+        "name": "圆通速递",
+        "logo": "56/yuantong.png"
+    },
+    "YD": {
+        "name": "韵达快运",
+        "logo": "56/yunda.png"
+    },
+    "YTKD": {
+        "name": "运通快递",
+        "logo": "56/ytkd.png"
+    },
+    "ZYNY": {
+        "name": "增益速递",
+        "logo": "56/zengyisudi.png"
+    },
+    "ZJS": {
+        "name": "宅急送",
+        "logo": "56/zhaijisong.png"
+    },
+    "ZTKY": {
+        "name": "中铁快运",
+        "logo": "56/zhongtiewuliu.png"
+    },
+    "ZTO": {
+        "name": "中通快递",
+        "logo": "56/zhongtong.png"
+    },
+    "ZYWL": {
+        "name": "中邮物流",
+        "logo": "56/zhongyouwuliu.png"
+    }
+}

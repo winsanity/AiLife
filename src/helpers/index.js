@@ -1,0 +1,5 @@
+/**
+ * AiLife
+ */
+
+export * from './time'
